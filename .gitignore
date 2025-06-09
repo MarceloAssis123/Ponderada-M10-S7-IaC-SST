@@ -1,0 +1,14 @@
+# DS_Store
+.DS_Store
+
+# sst
+.sst
+
+# node_modules
+node_modules
+
+# lock
+package-lock.json
+
+# Booster
+booster-data
